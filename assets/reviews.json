@@ -1,0 +1,10 @@
+{
+    "reviews": [
+      { "id": 1, "text": "Great product! Highly recommended." },
+      { "id": 2, "text": "Good quality. Worth the price." },
+      { "id": 3, "text": "Fast delivery and excellent packaging." },
+      { "id": 4, "text": "Exactly as described. No complaints." },
+      { "id": 5, "text": "Could be better. Average product." }
+    ]
+  }
+  

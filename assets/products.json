@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "name": "Acer [Smartchoice] Aspire Lite Laptop",
+      "image": "https://m.media-amazon.com/images/I/61CC9Mx2+aL._SX679_.jpg",
+      "price": "550",
+      "description": "Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 cm (15.6'') Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+      "rating": 4.5
+      
+    },
+    {
+      "id": 2,
+      "name": "ASUS Vivobook Go Laptop",
+      "image": "https://m.media-amazon.com/images/I/71nAEVpqXuL._SY355_.jpg",
+      "price": "620",
+      "description": "AVivobook Go 15 OLED (2023), AMD Ryzen 5 7520U, 15.6'' (39.62 cms) FHD OLED, Thin and Light Laptop (16GB/512GB SSD/Windows 11/Office 2021/Backlit KB/Black/1.63 kg), E1504FA-LK545WS",
+      "rating": 4.7
+    },
+    {
+        "id": 3,
+        "name": "Apple MacBook Air Laptop",
+        "image": "https://m.media-amazon.com/images/I/316ArzLeJ2L._SY445_SX342_QL70_FMwebp_.jpg",
+        "price": "650",
+        "description": "MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+        "rating": 4.8
+        
+      },
+      {
+        "id": 4,
+        "name": "Zebronics ZEB-KM2100 KeyBoard",
+        "image": "https://m.media-amazon.com/images/I/41prOt6O7QL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "15",
+        "description": "Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+        "rating": 4.2
+      },
+      {
+        "id": 5,
+        "name": "Logitech K480 Wireless Multi-Device Keyboard",
+        "image": "https://m.media-amazon.com/images/I/41hzQslWQlL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "25",
+        "description": "Logitech K480 Wireless Multi-Device Keyboard For Windows, Macos, Ipados, Android Or Chrome Os, Bluetooth, Compact, Compatible With Pc, Mac, Laptop, Smartphone, Tablet - Black",
+        "rating": 4.3
+        
+      },
+      {
+        "id": 6,
+        "name": "TULMAN Magic Gel Cleaner for Keyboard",
+        "image": "https://m.media-amazon.com/images/I/414vaLlxgcL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "8",
+        "description": "TULMAN Magic Gel Cleaner for Keyboard Computer Laptop Home & Office Window Grill Electronics Car Interior Dust Cleaner – Green 160g",
+        "rating": 3.1
+      },
+      {
+        "id": 7,
+        "name": "Dell MS116 Wired Optical Mouse",
+        "image": "https://m.media-amazon.com/images/I/21CA6BhAt3S._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "14",
+        "description": "Dell MS116 Wired Optical Mouse, 1000DPI, LED Tracking, Scrolling Wheel, Plug and Play",
+        "rating": 4.1
+        
+      },
+      {
+        "id": 8,
+        "name": "Logitech B170 Wireless Mouse",
+        "image": "https://m.media-amazon.com/images/I/31y-oJ1XnqL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "20",
+        "description": "Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+        "rating": 4.7
+      },
+      {
+        "id": 9,
+        "name": "Logitech H390 Wired On Ear Headset",
+        "image": "https://m.media-amazon.com/images/I/31xsYIxH-lL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "50",
+        "description": "Logitech H390 Wired On Ear Headset for PC/Laptop, Stereo Headphones with Noise Cancelling Microphone, USB-A, In-Line Controls, Works with Chromebook",
+        "rating": 4.0
+        
+      },
+      {
+        "id": 10,
+        "name": "Zebronics Zeb-200HM Wired On Ear Headphone",
+        "image": "https://m.media-amazon.com/images/I/41rw1px6XTL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "60",
+        "description": "Zebronics Zeb-200HM Wired On Ear Headphone with Mic, Dual 3.5mm Connectors, Adjustable Headband for PC Computers/Laptop (Black)",
+        "rating": 4.2
+      },
+      {
+        "id": 11,
+        "name": "Zebronics NC5500D Powerful Laptop Cooler",
+        "image": "https://m.media-amazon.com/images/I/81RSzw0VAeL._SX425_.jpg",
+        "price": "10",
+        "description": "Laptop Cooler with Dual 125mm Fans, Silent Operation, Adjustable Fan Speed, Display, Controls, USB, 5 Step Retractable Stand and Mobile Holder",
+        "rating": 4.1
+        
+      },
+      {
+        "id": 12,
+        "name": "Portronics Mport  Multiport Adapter",
+        "image": "https://m.media-amazon.com/images/I/51ddZEYFrPL._SY450_.jpg",
+        "price": "55",
+        "description": "Portronics Mport 3A USB Hub (3-in-1), Multiport Adapter with USB 3.0 & 2-Port USB 2.0, upto 5 Gbps High Data Transfer Speed for PC, Laptop & Mac (Black)",
+        "rating": 4.3
+      },
+      {
+        "id": 13,
+        "name": "GoPro HERO10 Black - Waterproof Action Camera",
+        "image": "https://m.media-amazon.com/images/I/41quDWydN3L._SY300_SX300_QL70_FMwebp_.jpg",
+        "price": "360",
+        "description": "GoPro HERO10 Black - Waterproof Action Camera with Front LCD and Touch Rear Screens, 5.3K60 Ultra HD Video, Optical 1X and Digital 4X 23MP Photos (1 Year INTL Warranty + 1 Year in Warranty)",
+        "rating": 4.7
+        
+      },
+      {
+        "id": 14,
+        "name": "DJI Action 2 Power Combo -12Mp Action Digital Camera",
+        "image": "https://m.media-amazon.com/images/I/31pfDWmdnVL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "220",
+        "description": "DJI Action 2 Power Combo -12Mp Action Digital Camera with Power Module,4K Recording Upto 120 Fps& 155° Fov, Portable& Wearable, Horizonsteady,10M Waterproof, Black",
+        "rating": 4.4
+      },
+      {
+        "id": 15,
+        "name": "Apple iPad (10th generation):",
+        "image": "https://m.media-amazon.com/images/I/31Wj0j4RXhL._SY445_SX342_QL70_FMwebp_.jpg",
+        "price": "590",
+        "description": "Apple iPad (10th generation): with A14 Bionic chip, 27.69 cm (10.9″) Liquid Retina display, 64GB, Wi-Fi 6, 12MP front/12MP back camera, Touch ID, all-day battery life Silver",
+        "rating": 4.4
+        
+      },
+      {
+        "id": 16,
+        "name": "Fujifilm X-S20 26.1MP APS-C X-trans sensor Camera",
+        "image": "https://m.media-amazon.com/images/I/41kOyyvqBhL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "720",
+        "description": "Fujifilm X-S20 26.1MP APS-C X-trans sensor|AI Deep Learning|IBIS System Mirrorless camera|6.2k 30p| face/eye/subject detection with 15-45mm zoom lens f/3.5-5.6 for vloggers and content creation",
+        "rating": 4.9
+      },
+      {
+        "id": 17,
+        "name": "Rockstar Games PS5 Grand Theft Auto V",
+        "image": "https://m.media-amazon.com/images/I/51rrSgsm2PL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "99",
+        "description": "Experience entertainment blockbusters, Grand Theft Auto V and GTA Online — now for PlayStation 5Enhanced fidelity & performance.",
+        "rating": 4.3
+        
+      },
+      {
+        "id": 18,
+        "name": "Sony God Of War Ragnarok | Standard Edition | PS5 Game (PlayStation 5)",
+        "image": "https://m.media-amazon.com/images/I/51EpT7KZTtL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": "199",
+        "description": "Those who break fate: Atreus seeks knowledge to help him understand the prophecy of Loki",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "name": "Electronic Arts Ea Sports Fc 24 | Standard Edition | Playstation 5",
+        "image": "https://m.media-amazon.com/images/I/81PX1wwqq9L._SX342_.jpg",
+        "price": "255",
+        "description": "EA SPORTS FC 24 is a new era for The World s Game: 19,000+ fully licensed players, 700+ teams, and 30+ leagues playing together in the most authentic football experience ever createdDevelop club legends and improve your players with the brand new Ultimate Team Evolutions, and welcome women s footballers to the pitch alongside men as you craft your dream XIWrite your own story in Manager and Player Career, and join friends on the pitch with cross-play in Clubs and VOLTA FOOTBALLUnit Count Type: Count; Unit Count: 1.0; Color Name: Multicolor; Operating System: Windows 10Unit Count Type: Count; Unit Count: 1.0; Color Name: Multicolor; Operating System: Windows 10",
+        "rating": 4.8
+        
+      },
+      {
+        "id": 20,
+        "name": "ASUS Vivobook Go",
+        "image": "https://m.media-amazon.com/images/I/815pn9-S+uL._SX342_.jpg",
+        "price": "90",
+        "description": "Cricket 24: Building the most realistic cricket video game ever!; The Ashes; Cricket 24 will feature the biggest rivalry in cricket, The Ashes. Detailed cutscenes immerse the player in the moment as the Ashes tour progresses. Feel a part of the team with press conferences and team training sessions. Unique commentary allows for complete Ashes immersion. Experience The Ashes playing as a single player, or as Australia or England.Official Licenses; Over 300 players with full photogrammetry. Major Cricket Nations including Australia, England, West Indies, New Zealand and Ireland plus more. The biggest tournaments including The Ashes, the KFC BBL and Weber WBBL, The Hundred, the Caribbean Premier League plus a number of professional Indian T20 teams, along with more than 50 highly detailed official stadiums.All new fielding; A complete overhaul of the fielding systems to provide the most realistic and responsive fielding controls ever seen in a cricket video game.Cross Platform; Fully cross platform, play online against your friends and the world s best players regardless of platform. Create and share custom content across different platforms including stadiums, players, teams and more with the academy.Color Name: Multicolor; Unit Count Type: Count; Unit Count: 1.0; Operating System: Windows 10",
+        "rating": 4.6
+      }
+  ]
+  
